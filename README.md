@@ -2,7 +2,7 @@
 
 An app used to visualize the working of the K-Means clustering algorithm.
 
-You can try out the app [here](https://kristijanr.github.io/kmeans-visualization-app/).
+You can try out the app [here](https://rkristijan.github.io/kmeans-visualizer/).
 
 # Project info
 
@@ -23,8 +23,8 @@ the knowlegde aquired by the creators from the coursework.
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/kristijanr/kmeans-visualization-app.git
-   cd kmeans-visualization-app
+   git clone https://github.com/rkristijan/kmeans-visualizer.git
+   cd kmeans-visualizer
    ```
 
 2. Install the dependencies:
